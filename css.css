@@ -11,6 +11,8 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    border: 1px solid white;
+    border-radius: 5px;
     background-color: #2D2E2E;
     font-family: 'ZCOOL QingKe HuangYou', cursive;
     color: red;
@@ -92,8 +94,8 @@ body {
     position: absolute;
     content: " ";
     width: 5px;
-    height: 290px;
-    top: -220px;
+    height: 275px;
+    top: -230px;
     left: 12px;
     background-color: #fe7e79;
     border-radius: 5px;
